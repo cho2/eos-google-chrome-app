@@ -1,0 +1,4 @@
+eos-google-chrome-app
+.flatpak-builder/
+chrome/
+repo/
